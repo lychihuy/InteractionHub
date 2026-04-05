@@ -168,3 +168,15 @@ C:\DoAnC#\InteractHub.API\obj\Debug\net10.0\refint\InteractHub.API.dll
 C:\DoAnC#\InteractHub.API\obj\Debug\net10.0\InteractHub.API.pdb
 C:\DoAnC#\InteractHub.API\obj\Debug\net10.0\InteractHub.API.genruntimeconfig.cache
 C:\DoAnC#\InteractHub.API\obj\Debug\net10.0\ref\InteractHub.API.dll
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.AssemblyInfo.cs
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.sourcelink.json
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.dll
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\refint\InteractHub.API.dll
+C:\Users\Admin\Desktop\InteractionHub\InteractHub.API\obj\Debug\net10.0\InteractHub.API.pdb
