@@ -8,7 +8,7 @@ using InteractHub.Core.Entities;
 using InteractHub.Infrastructure.Services;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Microsoft.OpenApi.Models;
-
+using InteractHub.Core.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -58,6 +58,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddScoped<JwtService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddScoped<IPostService, PostService>();
 
 // Swagger với JWT support
 builder.Services.AddSwaggerGen(c =>
